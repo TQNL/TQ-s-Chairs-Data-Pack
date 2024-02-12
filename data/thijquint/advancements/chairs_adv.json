@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:oak_stairs"
+    },
+    "title": "TQs Chairs Data Pack",
+    "description": "Adds right click chairs from stairs & slabs, look straight down on one",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "parent": "thijquint:root",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
